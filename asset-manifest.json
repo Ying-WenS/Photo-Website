@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ying-WenS/Photo-Website/static/css/main.76e48ce0.chunk.css",
+    "main.js": "/Ying-WenS/Photo-Website/static/js/main.df43e709.chunk.js",
+    "main.js.map": "/Ying-WenS/Photo-Website/static/js/main.df43e709.chunk.js.map",
+    "runtime-main.js": "/Ying-WenS/Photo-Website/static/js/runtime-main.903a0bbb.js",
+    "runtime-main.js.map": "/Ying-WenS/Photo-Website/static/js/runtime-main.903a0bbb.js.map",
+    "static/js/2.488e4ddc.chunk.js": "/Ying-WenS/Photo-Website/static/js/2.488e4ddc.chunk.js",
+    "static/js/2.488e4ddc.chunk.js.map": "/Ying-WenS/Photo-Website/static/js/2.488e4ddc.chunk.js.map",
+    "index.html": "/Ying-WenS/Photo-Website/index.html",
+    "static/css/main.76e48ce0.chunk.css.map": "/Ying-WenS/Photo-Website/static/css/main.76e48ce0.chunk.css.map",
+    "static/js/2.488e4ddc.chunk.js.LICENSE.txt": "/Ying-WenS/Photo-Website/static/js/2.488e4ddc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.903a0bbb.js",
+    "static/js/2.488e4ddc.chunk.js",
+    "static/css/main.76e48ce0.chunk.css",
+    "static/js/main.df43e709.chunk.js"
+  ]
+}
