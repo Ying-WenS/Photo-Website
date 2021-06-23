@@ -2,7 +2,7 @@ import React from "react";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import Homepage from "./pages/Homepage";
-import About from "./pages/About";
+import Weather from "./pages/Weather";
 import { Switch, Route } from "react-router-dom";
 import "./styles/style.css";
 function App() {
@@ -13,8 +13,8 @@ function App() {
         <Route path="/" exact>
           <Homepage />
         </Route>
-        <Route path="/about" exact>
-          <About />
+        <Route path="/weather" exact>
+          <Weather />
         </Route>
       </Switch>
       <Footer />
